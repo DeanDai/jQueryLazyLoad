@@ -1,0 +1,12 @@
+body { 
+	margin: 0; 
+	padding: 0;
+	min-width: 320px;
+	-webkit-text-size-adjust: none;
+}
+
+img {
+	height: auto;
+	width: auto\9;
+	width: 100%;
+}
